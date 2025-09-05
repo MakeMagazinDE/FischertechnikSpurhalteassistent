@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-# Spurhalteassistent
+# Spurhalteassistent für Fischertechnik-Modelle 
 
 ### Grayscale-Sensoren und Regler verhelfen dem Fischertechnik-Maker-Kit-Car zum Spurhalteassistenten.
 
