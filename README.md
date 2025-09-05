@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Spurhalteassistent für Fischertechnik-Modelle 
 
-### Grayscale-Sensoren und Regler verhelfen dem Fischertechnik-Maker-Kit-Car zum Spurhalteassistenten.
+### Oxocard, Grayscale-Sensoren und Regler verhelfen dem Fischertechnik-Maker-Kit-Car zum Spurhalteassistenten.
 
 Wir lenken programmgesteuert das Fischertechnik-Maker-Kit-Car über einen Spurhalteassistenten („Lane Assist“) auf der Fahrspur und zeigen, wie man Sensoren zur Lenkung nutzt.
 
