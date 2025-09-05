@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Spurhalteassistent
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Zwei Grayscale-Sensoren und ein pfiffig eingesetzter Regler verhelfen dem Fischertechnik-Maker-Kit-Car zu einem Spurhalteassistenten.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Wir lenken programmgesteuert das Fischertechnik-Maker-Kit-Car über einen Spurhalteassistenten („Lane Assist“) auf der Fahrspur und zeigen, wie man Sensoren zur Lenkung nutzt.
 
-![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
+![Picture](https://github.com/MakeMagazinDE/FischertechnikSpurhalteassistent/blob/master/titel.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/25 ab Seite 84](https://www.heise.de/select/make/2025/5/2519715230418144854).
