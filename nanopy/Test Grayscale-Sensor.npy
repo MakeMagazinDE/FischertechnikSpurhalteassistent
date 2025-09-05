@@ -1,0 +1,13 @@
+const GRAYSCALE = C_PIN_07      # grayscale sensor on IN07
+
+maxvalue = 0
+minvalue = 4095
+
+def onDraw():
+	value = readADC(GRAYSCALE, 5)
+    if value > maxvalue:
+        maxvalue = value
+    if value < minvalue:
+        minvalue = value
+    print("Val: " + value + " - Min: " + minvalue + " - Max: " + maxvalue)
+    
